@@ -58,7 +58,7 @@ pip install -r requirements.txt
 # 4️⃣ Start the Flask app
 python app.py
 ```
-The server will start on **http://localhost:5000**. Open this URL in your browser, upload a lecture video, and wait for the notes to be generated.
+The server will start on **http://localhost:5001**. Open this URL in your browser, upload a lecture video, and wait for the notes to be generated.
 
 ---
 ## How It Works
