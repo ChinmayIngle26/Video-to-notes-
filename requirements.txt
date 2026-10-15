@@ -1,0 +1,9 @@
+Flask==2.3.3
+numpy==1.26.4  # Pin NumPy to 1.x for Torch compatibility
+# Whisper from source to avoid build issues
+git+https://github.com/openai/whisper.git
+pytesseract==0.3.10
+Pillow==10.2.0
+markdown2==2.4.10
+weasyprint==60.2
+torch==2.2.0
